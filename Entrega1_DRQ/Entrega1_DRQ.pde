@@ -9,14 +9,50 @@ background(240, 240, 255);
 translate(500, 500);
 
 //Circulos
-fill(##951717);
+fill(#FFD700);
+ellipse(0, 0, 1450, 1450);
+
+fill(#F7A312);
+ellipse(0, 0, 1400, 1400);
+
+fill(#E4661B);
+ellipse(0, 0, 1350, 1350);
+
+fill(#C8492C);
+ellipse(0, 0, 1300, 1300);
+
+fill(#A7363F);
+ellipse(0, 0, 1250, 1250);
+
+fill(#872C4D);
+ellipse(0, 0, 1200, 1200);
+
+fill(#662451);
+ellipse(0, 0, 1150, 1150);
+
+fill(#4C1E46);
+ellipse(0, 0, 1100, 1100);
+
+fill(#3B1A3A);
 ellipse(0, 0, 1050, 1050);
 
-fill(#C40E07);
+fill(#31172F);
 ellipse(0, 0, 1000, 1000);
 
-fill(#F76161);
+fill(#2C1635);
 ellipse(0, 0, 950, 950);
+
+fill(#27153B);
+ellipse(0, 0, 900, 900);
+
+fill(#211441);
+ellipse(0, 0, 850, 850);
+
+fill(#1C1347);
+ellipse(0, 0, 800, 800);
+
+fill(#17124D);
+ellipse(0, 0, 750, 750);
 
 //Triangulos INFERIOR DERECHO COLOR
 fill(#31172F);
