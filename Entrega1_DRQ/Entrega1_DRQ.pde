@@ -8,7 +8,17 @@ background(240, 240, 255);
 //En el eje y los numero posistivos van abajo
 translate(500, 500);
 
-//INFERIOR DERECHO COLOR
+//Circulos
+fill(##951717);
+ellipse(0, 0, 1050, 1050);
+
+fill(#C40E07);
+ellipse(0, 0, 1000, 1000);
+
+fill(#F76161);
+ellipse(0, 0, 950, 950);
+
+//Triangulos INFERIOR DERECHO COLOR
 fill(#31172F);
 triangle(0, 500, 500, 0, 0, 0);
 
@@ -39,7 +49,7 @@ triangle(0, 100, 100, 0, 0, 0);
 fill(#E02040);
 triangle(0, 50, 50, 0, 0, 0);
 
-//SUPERIOR DERECHO COLOR
+// Triangulos SUPERIOR DERECHO COLOR
 fill(#31172F);
 triangle(0, -500, -500, 0, 0, 0);
 
@@ -70,7 +80,7 @@ triangle(0, -100, -100, 0, 0, 0);
 fill(#E02040);
 triangle(0, -50, -50, 0, 0, 0);
 
-//SUPERIOR IZQUIERDO COLOR
+//Triangulos SUPERIOR IZQUIERDO COLOR
 fill(#31172F);
 triangle(0, -500, 500, 0, 0, 0);
 
@@ -101,7 +111,7 @@ triangle(0, -100, 100, 0, 0, 0);
 fill(#E02040);
 triangle(0, -50, 50, 0, 0, 0);
 
-//INFERIOR IZQUIERDO COLOR
+// Triangulos INFERIOR IZQUIERDO COLOR
 fill(#31172F);
 triangle(0, 500, -500, 0, 0, 0);
 
